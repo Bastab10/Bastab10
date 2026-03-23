@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring full-stack developer
+ full-stack developer MERN
 
 
 ## 🌐 Socials:
