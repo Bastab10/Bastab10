@@ -1,5 +1,7 @@
 # 💫 About Me:
- full-stack developer MERN
+Hi, I'm Bastab Saikia
+
+Full Stack Developer with a strong interest in creating scalable, user-friendly applications and turning ideas into real-world solutions through code.
 
 
 ## 🌐 Socials:
